@@ -1,5 +1,8 @@
 # <img alt="chi" src="https://cdn.rawgit.com/go-chi/chi/master/_examples/chi.svg" width="220" />
 
+## What's different from original chi?
+This repo has [this PR](https://github.com/go-chi/chi/pull/872) merged.
+The PR adds `Find` method by which route pattern can be obtained in middlewares.
 
 [![GoDoc Widget]][GoDoc]
 
